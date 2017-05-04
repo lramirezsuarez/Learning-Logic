@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">Learning Logic</string>
+    <string name="txtWelcome">Welcome to the Learning Logic App.
+        \nThis App will help you study concepts of Logic and Programing.
+    </string>
+    <string name="hintName">Enter your name.</string>
+    <string name="txtLevel">Please select a difficulty level.</string>
+    <string name="txtBasic">Basic</string>
+    <string name="txtIntermediate">Intermediate</string>
+    <string name="txtAdvanced">Advanced</string>
+    <string name="txtPreg1">Question 1.</string>
+    <string name="txtP1RA">A. Answer.</string>
+    <string name="txtP1RB">B. Answer.</string>
+    <string name="txtP1RC">C. Answer.</string>
+    <string name="txtP1RD">D. Answer.</string>
+    <string name="txtP5RD">D. Answer.</string>
+    <string name="txtPreg2">Question 2.</string>
+    <string name="txtP2RA">A. Answer.</string>
+    <string name="txtP2RB">B. Answer.</string>
+    <string name="txtP2RC">C. Answer.</string>
+    <string name="txtP2RD">D. Answer.</string>
+    <string name="txtPreg3">Question 3.</string>
+    <string name="txtP3RA">A. Answer.</string>
+    <string name="txtP3RB">B. Answer.</string>
+    <string name="txtP3RC">C. Answer.</string>
+    <string name="txtP3RD">D. Answer.</string>
+    <string name="txtPreg4">Question 4.</string>
+    <string name="txtP4RA">A. Answer.</string>
+    <string name="txtP4RB">B. Answer.</string>
+    <string name="txtP4RC">C. Answer.</string>
+    <string name="txtP4RD">D. Answer.</string>
+    <string name="txtPreg5">Question 5.</string>
+    <string name="txtP5RA">A. Answer.</string>
+    <string name="txtP5RB">B. Answer.</string>
+    <string name="txtP5RC">C. Answer.</string>
+    <string name="txtEvaluate">Evaluate</string>
+    <string name="txtResults">Results for</string>
+    <string name="txtTotal" translatable="false">0</string>
+    <string name="txtResMessage">Message according to the result.</string>
+    <string name="txtCapture">Capture</string>
+    <string name="txtSend">Share</string>
+    <string name="txtNoName">Please enter a Name.</string>
+    <string name="txtLevelBasic">Basic Level for</string>
+    <string name="txtLevelInter">Intermediate Level for</string>
+    <string name="txtLevelAdvanced">Advanced Level for</string>
+    <string name="txtNivelText">Level</string>
+    <string name="createdBy">Created by Luis Alejandro Ramirez</string>
+    <string name="msg1">Contratulations!</string>
+    <string name="msg2">Very good, but you can improve your knowledge.</string>
+    <string name="msg3">You should study more.</string>
+
+    <!-- Questions and Answers Basic Level -->
+    <string name="lvlBpreg1">1. ¿To print a text in java, you use the next command?</string>
+    <string name="lvlBpr1rA">A. while (Text that you want to print);</string>
+    <string name="lvlBpr1rB">B. System.out.println(“Text that you want to print”);</string>
+    <string name="lvlBpr1rC">C. If else (Text that you want to print);</string>
+    <string name="lvlBpr1rD">D. If (Text that you want to print);</string>
+
+    <string name="lvlBpreg2">2. ¿What does this symbol means \“||\” in a condition?</string>
+    <string name="lvlBpr2rA">A. while.</string>
+    <string name="lvlBpr2rB">B. if.</string>
+    <string name="lvlBpr2rC">C. If else.</string>
+    <string name="lvlBpr2rD">D. Or.</string>
+
+    <string name="lvlBpreg3">3. ¿For what end the conditional structure was made?</string>
+    <string name="lvlBpr3rA">A. The program can count.</string>
+    <string name="lvlBpr3rB">B. The program compiles.</string>
+    <string name="lvlBpr3rC">C. The program takes a decision in it\'s execution.</string>
+    <string name="lvlBpr3rD">D. Neither.</string>
+
+    <string name="lvlBpreg4">4. ¿For what end the nested condition are used?</string>
+    <string name="lvlBpr4rA">A. Execute the previous condition.</string>
+    <string name="lvlBpr4rB">B. Have various conditions for taking the decision of the program..</string>
+    <string name="lvlBpr4rC">C. Compile.</string>
+    <string name="lvlBpr4rD">D. All of the above.</string>
+
+    <string name="lvlBpreg5">5. For the expresion “less than” we use the symbol(s).</string>
+    <string name="lvlBpr5rA">A. =&lt;</string>
+    <string name="lvlBpr5rB">B. &lt; </string>
+    <string name="lvlBpr5rC">C. &gt;==</string>
+    <string name="lvlBpr5rD">D. All are valid.</string>
+
+    <!-- Questions and Answers Intermediate Level -->
+    <string name="lvlIpreg1">1. ¿Which of the next instructions is the correct one?</string>
+    <string name="lvlIpr1rA"><![CDATA[A. for (i=0; i<10; i++) { System.out.printf(“*”); }]]></string>
+    <string name="lvlIpr1rB"><![CDATA[B. for (i=0; i<10; i++) { System.out.println(“*”); }]]></string>
+    <string name="lvlIpr1rC"><![CDATA[C. for (i==0; i<10; i++) { System.out.println(“*”); }]]></string>
+    <string name="lvlIpr1rD"><![CDATA[D. for (i>=0; i<10; i++) { System.out.println(“*”); }]]></string>
+
+    <string name="lvlIpreg2"><![CDATA[2. For the next repetitive structure:
+        \nSTART\nINDEX=1\nWHILE INDEX <= 5 DO\nAGE [INDEX] = 0\nINDEX = INDEX + 1\nEND WHILE\nEND
+        \nThis process repeats:]]></string>
+    <string name="lvlIpr2rA">A. 6 times.</string>
+    <string name="lvlIpr2rB">B. 5 times.</string>
+    <string name="lvlIpr2rC">C. 2 times.</string>
+    <string name="lvlIpr2rD">D. 4 times.</string>
+
+    <string name="lvlIpreg3">3. ¿What type of value returns a condition with the next structure "do{}while()"?</string>
+    <string name="lvlIpr3rA">A. String.</string>
+    <string name="lvlIpr3rB">B. Boolean.</string>
+    <string name="lvlIpr3rC">C. Integer.</string>
+    <string name="lvlIpr3rD">D. None.</string>
+
+    <string name="lvlIpreg4">4. ¿The FOR structure requires an integer variable?</string>
+    <string name="lvlIpr4rA">A. True.</string>
+    <string name="lvlIpr4rB">B. False.</string>
+    <string name="lvlIpr4rC">C. Sometimes.</string>
+    <string name="lvlIpr4rD">D. The FOR structure doesn\'t use variables.</string>
+
+    <string name="lvlIpreg5">5. The sintaxis used by the FOR cycle is the next:</string>
+    <string name="lvlIpr5rA">A. for [entry values; condition; iteration for the cycle]</string>
+    <string name="lvlIpr5rB">B. for {entry values; condition; iteration for the cycle}</string>
+    <string name="lvlIpr5rC">C. for (entry values; condition; iteration for the cycle)</string>
+    <string name="lvlIpr5rD">D. B and C are correct.</string>
+
+    <!-- Questions and Answers Advanced Level -->
+    <string name="lvlApreg1">1. A vector is an array where the elements inside are disposed under a same concept of clasification:</string>
+    <string name="lvlApr1rA">A. Row.</string>
+    <string name="lvlApr1rB">B. Column</string>
+    <string name="lvlApr1rC">C. Row or column.</string>
+    <string name="lvlApr1rD">D. Neither.</string>
+
+    <string name="lvlApreg2">2. ¿In a vector the data is organized in lineal form?</string>
+    <string name="lvlApr2rA">A. Yes.</string>
+    <string name="lvlApr2rB">B. No.</string>
+    <string name="lvlApr2rC">C. Depends on the code.</string>
+    <string name="lvlApr2rD">D. The arrays in Vectors do not have an specific organization.</string>
+
+    <string name="lvlApreg3">3. In a vector you can do the next operations:</string>
+    <string name="lvlApr3rA">A. Search.</string>
+    <string name="lvlApr3rB">B. Order.</string>
+    <string name="lvlApr3rC">C. Insert.</string>
+    <string name="lvlApr3rD">D. All of the above.</string>
+
+    <string name="lvlApreg4">4. ¿Which is the correct way to declare a vector?</string>
+    <string name="lvlApr4rA">A. Vec [ ].</string>
+    <string name="lvlApr4rB">B. Vec { }.</string>
+    <string name="lvlApr4rC">C. Vec ( ).</string>
+    <string name="lvlApr4rD">D. Neither.</string>
+
+    <string name="lvlApreg5">5. A method can have:</string>
+    <string name="lvlApr5rA">A. One parameter.</string>
+    <string name="lvlApr5rB">B. Various parameters.</string>
+    <string name="lvlApr5rC">C. Doesn\'t needs parameters.</string>
+    <string name="lvlApr5rD">D. All of the above.</string>
+
+</resources>

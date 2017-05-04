@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aprendiendo Logica</string>
+    <string name="hintName">Ingrese su nombre.</string>
+    <string name="txtAdvanced">Avanzado</string>
+    <string name="txtBasic">Basico</string>
+    <string name="txtCapture">Capturar</string>
+    <string name="txtEvaluate">Evaluar</string>
+    <string name="txtIntermediate">Intermedio</string>
+    <string name="txtLevel">Por favor seleccione el nivel de dificultad.</string>
+    <string name="txtP1RA">A. Respuesta.</string>
+    <string name="txtP2RA">A. Respuesta.</string>
+    <string name="txtP3RA">A. Respuesta.</string>
+    <string name="txtP4RA">A. Respuesta.</string>
+    <string name="txtP5RA">A. Respuesta.</string>
+    <string name="txtP1RB">B. Respuesta.</string>
+    <string name="txtP2RB">B. Respuesta.</string>
+    <string name="txtP3RB">B. Respuesta.</string>
+    <string name="txtP4RB">B. Respuesta.</string>
+    <string name="txtP5RB">B. Respuesta.</string>
+    <string name="txtP1RC">C. Respuesta.</string>
+    <string name="txtP2RC">C. Respuesta.</string>
+    <string name="txtP3RC">C. Respuesta.</string>
+    <string name="txtP4RC">C. Respuesta.</string>
+    <string name="txtP5RC">C. Respuesta.</string>
+    <string name="txtP1RD">D. Respuesta.</string>
+    <string name="txtP2RD">D. Respuesta.</string>
+    <string name="txtP3RD">D. Respuesta.</string>
+    <string name="txtP4RD">D. Respuesta.</string>
+    <string name="txtP5RD">D. Respuesta.</string>
+    <string name="txtPreg1">Pregunta 1.</string>
+    <string name="txtPreg2">Pregunta 2.</string>
+    <string name="txtPreg3">Pregunta 3.</string>
+    <string name="txtPreg4">Pregunta 4.</string>
+    <string name="txtPreg5">Pregunta 5.</string>
+    <string name="txtResMessage">Mensaje segun el resultado.</string>
+    <string name="txtResults">Resultados para</string>
+    <string name="txtSend">Compartir</string>
+    <string name="txtWelcome">Bienvenido a la aplicación de Aprendiendo Logica. \nEsta aplicacion le ayudara a estudiar conceptos de Logica y Programación.</string>
+
+    <!-- Questions and Answers Basic Level -->
+    <string name="lvlBpreg1">1. ¿Para imprimir una cadena de texto en java, se utiliza el comando?</string>
+    <string name="lvlBpr1rA">A. while (Texto que se desea imprimir);</string>
+    <string name="lvlBpr1rB">B. System.out.println(“Texto que se desea imprimir”);</string>
+    <string name="lvlBpr1rC">C. If else (Texto que se desea imprimir);</string>
+    <string name="lvlBpr1rD">D. If (Texto que se desea imprimir);</string>
+
+    <string name="lvlBpreg2">2. ¿Qué significa el símbolo \“||\” en una condición?</string>
+    <string name="lvlBpr2rA">A. while (mientras).</string>
+    <string name="lvlBpr2rB">B. if (Si).</string>
+    <string name="lvlBpr2rC">C. If else (si, en caso contrario)</string>
+    <string name="lvlBpr2rD">D. Or (o).</string>
+
+    <string name="lvlBpreg3">3. ¿La estructura condicional se hizo con qué fin?</string>
+    <string name="lvlBpr3rA">A. El programa pueda contar.</string>
+    <string name="lvlBpr3rB">B. El programa compile.</string>
+    <string name="lvlBpr3rC">C. El programa tome una decisión en su ejecución.</string>
+    <string name="lvlBpr3rD">D. Ninguna de las anteriores.</string>
+
+    <string name="lvlBpreg4">4. ¿Las condiciones anidadas se usan con qué fin?</string>
+    <string name="lvlBpr4rA">A. Ejecutar la condición anterior.</string>
+    <string name="lvlBpr4rB">B. Tener varias condiciones para la toma de decisiones del programa.</string>
+    <string name="lvlBpr4rC">C. Compilar.</string>
+    <string name="lvlBpr4rD">D. Todas las anteriores.</string>
+
+    <string name="lvlBpreg5">5. Para la expresión “menor que” utilizamos los símbolos.</string>
+    <string name="lvlBpr5rA">A. =&lt;</string>
+    <string name="lvlBpr5rB">B. &lt; </string>
+    <string name="lvlBpr5rC">C. &gt;==</string>
+    <string name="lvlBpr5rD">D. Todas son válidas.</string>
+
+    <!-- Questions and Answers Intermediate Level -->
+    <string name="lvlIpreg1">1. ¿Cuál de las siguientes instrucciones es la correcta?</string>
+    <string name="lvlIpr1rA"><![CDATA[A. for (i=0; i<10; i++) { System.out.printf(“*”); }]]></string>
+    <string name="lvlIpr1rB"><![CDATA[B. for (i=0; i<10; i++) { System.out.println(“*”); }]]></string>
+    <string name="lvlIpr1rC"><![CDATA[C. for (i==0; i<10; i++) { System.out.println(“*”); }]]></string>
+    <string name="lvlIpr1rD"><![CDATA[D. for (i>=0; i<10; i++) { System.out.println(“*”); }]]></string>
+
+    <string name="lvlIpreg2">2. Para la siguiente estructura repetitiva:
+        \nINICIO\nINDICE=1\nMIENTRAS INDICE &lt;= 5 HAGA\nEDAD [INDICE] = 0\nINDICE = INDICE + 1\nFIN MIENTRAS\nFIN INICIO
+        \nEl proceso se repite:</string>
+    <string name="lvlIpr2rA">A. 6 veces.</string>
+    <string name="lvlIpr2rB">B. 5 veces.</string>
+    <string name="lvlIpr2rC">C. 2 veces.</string>
+    <string name="lvlIpr2rD">D. 4 veces.</string>
+
+    <string name="lvlIpreg3">3. ¿Qué tipo de valor regresa una condición en la estructura do{}while() “Hacer, mientras que”?</string>
+    <string name="lvlIpr3rA">A. Cadena.</string>
+    <string name="lvlIpr3rB">B. Booleano.</string>
+    <string name="lvlIpr3rC">C. Entero.</string>
+    <string name="lvlIpr3rD">D. Ninguna.</string>
+
+    <string name="lvlIpreg4">4. ¿La estructura FOR requiere una variable entera que cumpla la función de un contador de vueltas?</string>
+    <string name="lvlIpr4rA">A. Verdadero.</string>
+    <string name="lvlIpr4rB">B. Falso.</string>
+    <string name="lvlIpr4rC">C. A veces.</string>
+    <string name="lvlIpr4rD">D. La estructura FOR no maneja variables.</string>
+
+    <string name="lvlIpreg5">5. La sintaxis empleada por el ciclo FOR es la siguiente:</string>
+    <string name="lvlIpr5rA">A. for [valores de entrada; condición; iteración por el ciclo]</string>
+    <string name="lvlIpr5rB">B. for {valores de entrada; condición; iteración por el ciclo}</string>
+    <string name="lvlIpr5rC">C. for (valores de entrada; condición; iteración por el ciclo)</string>
+    <string name="lvlIpr5rD">D. B y C son correctas.</string>
+
+    <!-- Questions and Answers Advanced Level -->
+    <string name="lvlApreg1">1. Un vector es un arreglo donde los elementos que lo conforman están dispuestos bajo un mismo concepto de clasificación:</string>
+    <string name="lvlApr1rA">A. Fila.</string>
+    <string name="lvlApr1rB">B. Columna</string>
+    <string name="lvlApr1rC">C. Fila o columna.</string>
+    <string name="lvlApr1rD">D. Ninguna de las anteriores.</string>
+
+    <string name="lvlApreg2">2. ¿En un vector los datos están organizados en forma lineal?</string>
+    <string name="lvlApr2rA">A. Si.</string>
+    <string name="lvlApr2rB">B. No.</string>
+    <string name="lvlApr2rC">C. Depende del código.</string>
+    <string name="lvlApr2rD">D. Los arreglos  en vectores no tienen una organización especifica.</string>
+
+    <string name="lvlApreg3">3. En un vector se pueden hacer las siguientes operaciones:</string>
+    <string name="lvlApr3rA">A. Buscar.</string>
+    <string name="lvlApr3rB">B. Ordenar.</string>
+    <string name="lvlApr3rC">C. Insertar.</string>
+    <string name="lvlApr3rD">D. Todas las anteriores.</string>
+
+    <string name="lvlApreg4">4. ¿Cuál es la forma correcta de declarar un vector?</string>
+    <string name="lvlApr4rA">A. Vec [ ].</string>
+    <string name="lvlApr4rB">B. Vec { }.</string>
+    <string name="lvlApr4rC">C. Vec ( ).</string>
+    <string name="lvlApr4rD">D. Ninguna de las anteriores.</string>
+
+    <string name="lvlApreg5">5. Un método puede tener:</string>
+    <string name="lvlApr5rA">A. Un parámetro.</string>
+    <string name="lvlApr5rB">B. Varios parámetros.</string>
+    <string name="lvlApr5rC">C. No tener parámetros.</string>
+    <string name="lvlApr5rD">D. Todas las anteriores.</string>
+    <string name="createdBy">Creado por Luis Alejandro Ramirez</string>
+    <string name="msg1">Felicitaciones!</string>
+    <string name="msg2">Muy bien, pero aun puedes mejorar tus conocimientos.</string>
+    <string name="msg3">Deberias estudiar un poco mas.</string>
+    <string name="txtLevelAdvanced">Nivel Avanzado para</string>
+    <string name="txtLevelBasic">Nivel Basico para</string>
+    <string name="txtLevelInter">Nivel Intermedio para</string>
+    <string name="txtNivelText">Nivel</string>
+    <string name="txtNoName">Por favor ingrese un Nombre.</string>
+</resources>
